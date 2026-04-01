@@ -1,0 +1,8 @@
+{
+  "name": "dispatcher",
+  "description": "Router and help menu for Gaia Architecture Skills.",
+  "skills": [
+    { "name": "studio", "path": "skills/studio" },
+    { "name": "skills-menu", "path": "skills/skills-menu" }
+  ]
+}

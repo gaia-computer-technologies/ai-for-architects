@@ -1,0 +1,9 @@
+{
+  "name": "research",
+  "description": "Research and analysis skills — lighting studies, precedent research, and structured design critique.",
+  "skills": [
+    { "name": "lighting-study", "path": "skills/lighting-study" },
+    { "name": "precedent-research", "path": "skills/precedent-research" },
+    { "name": "design-critique", "path": "skills/design-critique" }
+  ]
+}
