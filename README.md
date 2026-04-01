@@ -1,4 +1,4 @@
-# 🏛 AI for Architects
+# AI for Architects
 
 Open-source Claude Code skills for the concept phase of architecture.
 
