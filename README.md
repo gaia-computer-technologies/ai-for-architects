@@ -18,11 +18,11 @@ These skills operate **upstream** - before BIM, before production drawings, befo
 graph TD
     U[Architect] -->|conversation| CA[Concept Architect Agent]
 
-    CA -->|vague idea to structured scope| DB[/design-brief]
-    CA -->|concept to material direction| MP[/material-palette]
-    CA -->|atmosphere to experiential language| SF[/space-feel]
-    CA -->|experience to presentation text| CN[/concept-narrative]
-    CA -->|narrative to render instruction| RP[/render-prompt]
+    CA -->|vague idea to structured scope| DB["/design-brief"]
+    CA -->|concept to material direction| MP["/material-palette"]
+    CA -->|atmosphere to experiential language| SF["/space-feel"]
+    CA -->|experience to presentation text| CN["/concept-narrative"]
+    CA -->|narrative to render instruction| RP["/render-prompt"]
 
     DB -.->|feeds| MP
     MP -.->|feeds| SF
