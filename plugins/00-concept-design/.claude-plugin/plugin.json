@@ -1,12 +1,11 @@
 {
   "name": "concept-design",
-  "description": "Core concept phase skills — render prompts, design briefs, style analysis, material palettes, colour stories, and room programmes.",
+  "description": "Five concept-phase skills for architects — render prompts, design briefs, material palettes, concept narratives, and spatial atmosphere.",
   "skills": [
     { "name": "render-prompt", "path": "skills/render-prompt" },
     { "name": "design-brief", "path": "skills/design-brief" },
-    { "name": "style-analysis", "path": "skills/style-analysis" },
     { "name": "material-palette", "path": "skills/material-palette" },
-    { "name": "color-story", "path": "skills/color-story" },
-    { "name": "room-programme", "path": "skills/room-programme" }
+    { "name": "concept-narrative", "path": "skills/concept-narrative" },
+    { "name": "space-feel", "path": "skills/space-feel" }
   ]
 }

@@ -1,12 +1,9 @@
 {
   "name": "AI for Architects",
-  "description": "Open-source Claude Code skills for the concept phase of architecture — render prompts, design briefs, material palettes, lighting studies, and presentation narratives. By Gaia.",
+  "description": "Open-source Claude Code skills for the concept phase of architecture. Five skills: render prompts, design briefs, material palettes, concept narratives, spatial atmosphere. By Gaia.",
   "author": "Gaia (gaia.computer)",
   "license": "MIT",
   "plugins": [
-    { "name": "concept-design", "path": "plugins/00-concept-design" },
-    { "name": "presentation", "path": "plugins/01-presentation" },
-    { "name": "research", "path": "plugins/02-research" },
-    { "name": "dispatcher", "path": "plugins/03-dispatcher" }
+    { "name": "concept-design", "path": "plugins/00-concept-design" }
   ]
 }

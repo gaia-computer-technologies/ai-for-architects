@@ -1,9 +1,0 @@
-{
-  "name": "presentation",
-  "description": "Presentation and narrative skills — concept narratives, spatial experience descriptions, and moodboard structuring.",
-  "skills": [
-    { "name": "concept-narrative", "path": "skills/concept-narrative" },
-    { "name": "space-feel", "path": "skills/space-feel" },
-    { "name": "moodboard-prompt", "path": "skills/moodboard-prompt" }
-  ]
-}
